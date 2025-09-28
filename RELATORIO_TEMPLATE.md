@@ -1,7 +1,7 @@
 # Relatório: Mini-Projeto 1 - Quebra-Senhas Paralelo
 
-**Aluno(s):** Nome (Matrícula), Nome (Matrícula),,,  
----
+**Aluno(s):** Beatriz Silva Nobrega 10435789, Eduardo Kenji Hernandes Ikematu 10439924, Gabriel Ferreira
+          
 
 ## 1. Estratégia de Paralelização
 
